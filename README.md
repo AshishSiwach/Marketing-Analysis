@@ -1,9 +1,9 @@
 # Marketing-Analysis
-Marketing Analysis for CodeX a German beverage company using PowerBI
+Marketing Analysis for CodeX, a beverage company using PowerBI
 
 **Direct Link to the Dashboard** : https://www.novypro.com/project/marketing-analysis-4
 ## Problem Statement
-CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India. Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents.
+CodeX is a beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India. Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents.
 ## Metadata
 This file contains all the meta information regarding the columns described in the CSV files. We have provided 3 CSV files:
 1. dim_respondents
